@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# AppBox - iOS Apps Wireless Installation 🥇 
+AppBox is a tool for developers to build and deploy Development and In-house applications directly to the devices from your Dropbox account.
 
-You can use the [editor on GitHub](https://github.com/tryappbox/tryappbox.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Features ⚡️ 
+- Just Select Project/Workspace to archive -> make ipa -> upload ipa -> send mail -> and shutdown mac
+- Keep Same Link
+ - This feature will keep same short url for all future build/ipa uploaded with same bundle identifier, this means old build/ipa url will replaced by new ipa file. You can change the link by changing the Dropbox app folder name below.
+ - If this option is enabled, you can also download the previous build with same url.
+ - [Read more here](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation/wiki/Keep-Same-Link)
+- Auto E-Mail App Distribution Link
+- Auto Shutdown Mac after Distribution
+ - After 1 min when mail sent notification come
+ - You can only shutdown if mail option is enable
+- Maximum Upload Size => Equal to your Dropbox account storage
+- Uploaded App Expiration => Until you delete from your Dropbox
+- Installations Per App => Unlimited
+- Dashboard`*`
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ `*` Will be available in future version
+ 
+# Download latest release 📦
+[![](https://github.com/developerinsider/developer-insider-content/blob/master/Logo/Download-25.png)](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation/releases/download/0.9.7/AppBox.app.zip)  [Click here to download AppBox.app for your Mac](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation/releases/download/0.9.7/AppBox.app.zip)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Current Version Screenshot 🎨
+### Upload IPA
+![](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation/blob/Screenshot/Screenshot/uploadipa.png?raw=true)
 
-```markdown
-Syntax highlighted code block
+### Archive and Upload IPA
+![](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation/blob/Screenshot/Screenshot/archiveandipa.png?raw=trye)
 
-# Header 1
-## Header 2
-### Header 3
+### Uploading IPA
+![](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation/blob/Screenshot/Screenshot/uploadingipa.png?raw=true)
 
-- Bulleted
-- List
+### Installation and All Builds WebPage
+![](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation/raw/Screenshot/Screenshot/webpage1.png?raw=true)        ![](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation/raw/Screenshot/Screenshot/webpage2.png?raw=true)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tryappbox/tryappbox.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Contributions ❤️
+Any contribution is more than welcome! You can contribute through pull requests and issues on [GitHub](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation)
