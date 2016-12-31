@@ -1,13 +1,5 @@
-# Setup
-title: AppBox
-tagline: AppBox - Build and Deploy Development iOS Apps Wireless Installation
-baseurl: tryappbox.github.io
-
-# About/contact
-author: 
-name: vineetchoudhary
-
-#Others
-markdown: kramdown
-
-theme: jekyll-theme-cayman
+title: Minimal theme
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: 
