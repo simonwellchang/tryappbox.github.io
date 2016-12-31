@@ -4,9 +4,8 @@ AppBox is a tool for developers to build and deploy Development and In-house app
 # Features ⚡️ 
 - Just Select Project/Workspace to archive -> make ipa -> upload ipa -> send mail -> and shutdown mac
 - Keep Same Link
-     - This feature will keep same short url for all future build/ipa uploaded with same bundle identifier, this means old build/ipa url will replaced by new ipa file. You can change the link by changing the Dropbox app folder name below.
+     - This feature will keep same short url for all future build/ipa uploaded with same bundle identifier, this means old build/ipa url will replaced by new ipa file.
      - If this option is enabled, you can also download the previous build with same url.
-     - [Read more here](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation/wiki/Keep-Same-Link)
 - Auto E-Mail App Distribution Link
 - Auto Shutdown Mac after Distribution
      - After 1 min when mail sent notification come
@@ -33,7 +32,7 @@ AppBox is a tool for developers to build and deploy Development and In-house app
 ![](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation/blob/Screenshot/Screenshot/uploadingipa.png?raw=true)
 
 ### Installation and All Builds WebPage
-![](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation/raw/Screenshot/Screenshot/webpage1.png?raw=true)        ![](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation/raw/Screenshot/Screenshot/webpage2.png?raw=true)
+![](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation/raw/Screenshot/Screenshot/webpage1.png?raw=true)
 
 # Contributions ❤️
 Any contribution is more than welcome! You can contribute through pull requests and issues on [GitHub](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation)
