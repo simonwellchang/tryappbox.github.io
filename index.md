@@ -18,7 +18,7 @@ AppBox is a tool for developers to build and deploy Development and In-house app
  `*` Will be available in future version
  
 # Download latest release 📦
-[![](https://github.com/developerinsider/developer-insider-content/blob/master/Logo/Download-25.png?raw=true)](https://tryappbox.github.io/download)  [Click here to download AppBox.app for your Mac](https://tryappbox.github.io/download)
+[![](https://github.com/developerinsider/developer-insider-content/blob/master/Logo/Download-25.png?raw=true)](/download)  [Click here to download AppBox.app for your Mac](/download)
 
 
 # Current Version Screenshot 🎨
