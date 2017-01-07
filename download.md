@@ -3,8 +3,8 @@ layout: default
 ---
 
 # downloading appbox...
-Click <a href="https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation/releases/download/0.9.8/AppBox.app.zip">here</a> if your browser does not start the download automatically.
+Click <a href="https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation/releases/download/0.9.9/AppBox.app.zip">here</a> if your browser does not start the download automatically.
 
 <script>
-window.location.href="https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation/releases/download/0.9.8/AppBox.app.zip";
+window.location.href="https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation/releases/download/0.9.9/AppBox.app.zip";
 </script>
